@@ -86,7 +86,7 @@ The collected policy data contains
 ### Action Devliery
 
 - Generates comprehensive reports for [community analysis](output/community_analysis_text) and [policy analysis](output/community_analysis_text)
-- Provides interactive map visualizations on our project website [https://next.counterinfodemic.org/](https://next.counterinfodemic.org/). 
+- Provides interactive map visualizations on our project website [https://counterinfodemic.org/](https://counterinfodemic.org/). 
 - Automatically generates [feedback emails]((output/email_report_text)) to LGAs when information gaps are detected 
 
 ## FAQ
