@@ -1,11 +1,11 @@
-# Q2PM: An Interactive System for Query-to-Policy Mapping in Rural Australia
+# CLEAR: Climate Policy Retrieval and Summarization Using LLMs
 ---
-![Overview of the Q2PM System](figs/p2m.jpg)
+![Overview of the CLEAR System](figs/p2m.jpg)
 _Figure: Climate Policy Navigator: Mapping Australia's Environmental Policy Data_
 
 
 
-Q2PM is an interactive system that bridges the gap between rural communities and local government climate policies through automated query interpretation and policy matching. The system leverages slim language models to decompose natural queries into structured components and map them to relevant local government area (LGA) policy documents. Q2PM consists of three main components illustrated as following:
+CLEAR is an interactive system that bridges the gap between rural communities and local government climate policies through automated query interpretation and policy matching. The system leverages slim language models to decompose natural queries into structured components and map them to relevant local government area (LGA) policy documents. CLEAR consists of three main components illustrated as following:
 
 ### Query Interpretation
   Query Interpretation to process natural query into following stcutred format. Given a natrual query $q$ `In Oakford, WA, in the Serpentine-Jarrahdale LGA, water scarcity and extreme heat are major challenges. What programs are in place to promote water efficiency and manage climate impacts in our region?"`, the $f$ extracted ($L, I , T)$:
