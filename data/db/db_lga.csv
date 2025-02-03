@@ -1,0 +1,363 @@
+lga_id,lga,govLvl,lgaType,govURL,govEmail,state_name,censusURL_2021,state,num_policies
+LGA50080,Albany,lga,rural,https://www.albany.wa.gov.au/,staff@albany.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA50080,WA,2
+LGA70200,Alice Springs,lga,rural,https://alicesprings.nt.gov.au/,astc@astc.nt.gov.au,Northern Territory,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA70200,NT,2
+LGA20110,Alpine,lga,rural,https://www.alpineshire.vic.gov.au/,info@alpineshire.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA20110,VIC,1
+LGA40250,Anangu Pitjantjatjara Yunkunytjatjara,lga,rural,https://anangu.com.au/,Officemanager@anangu.com.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA40250,SA,1
+LGA20260,Ararat,lga,rural,https://www.ararat.vic.gov.au/,council@ararat.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA20260,VIC,1
+LGA10180,Armidale Regional,lga,rural,https://www.armidaleregional.nsw.gov.au/,council@armidale.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA10180,NSW,1
+LGA50250,Ashburton,lga,rural,https://www.ashburton.wa.gov.au/,soa@ashburton.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA50250,WA,1
+LGA50280,Augusta-Margaret River,lga,rural,https://www.amrshire.wa.gov.au/,amrshire@amrshire.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA50280,WA,2
+LGA10300,Balranald,lga,rural,https://balranald.nsw.gov.au/,council@balranald.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA10300,NSW,1
+LGA30370,Banana,lga,rural,https://www.banana.qld.gov.au/,enquiries@banana.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA30370,QLD,1
+LGA30410,Barcaldine,lga,rural,https://www.barcaldinerc.qld.gov.au/,council@barc.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA30410,QLD,1
+LGA30450,Barcoo,lga,rural,https://www.barcoo.qld.gov.au/,shire@barcoo.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA30450,QLD,1
+LGA70420,Barkly,lga,rural,https://www.barkly.nt.gov.au/,reception@barkly.nt.gov.au,Northern Territory,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA70420,NT,1
+LGA20830,Baw Baw,lga,rural,https://www.bawbawshire.vic.gov.au/Home,bawbaw@bawbawshire.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA20830,VIC,3
+LGA10550,Bega Valley,lga,rural,https://begavalley.nsw.gov.au/,council@begavalley.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA10550,NSW,2
+LGA10600,Bellingen,lga,rural,https://www.bellingen.nsw.gov.au/Home,council@bellingen.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA10600,NSW,2
+LGA70540,Belyuen,lga,rural,https://www.belyuen.nt.gov.au/,dave.ferguson@belyuen.nt.gov.au,Northern Territory,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA70540,NT,1
+LGA21010,Benalla,lga,rural,https://www.benalla.vic.gov.au/Home,council@benalla.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA21010,VIC,4
+LGA40520,Berri and Barmera,lga,rural,https://www.berribarmera.sa.gov.au/,bbc@bbc.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA40520,SA,1
+LGA10650,Berrigan,lga,rural,https://www.berriganshire.nsw.gov.au/Home,mail@berriganshire.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA10650,NSW,1
+LGA10800,Bland,lga,rural,https://www.blandshire.nsw.gov.au/Home,council@blandshire.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA10800,NSW,5
+LGA10850,Blayney,lga,rural,https://www.blayney.nsw.gov.au/,council@blayney.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA10850,NSW,1
+LGA10950,Bogan,lga,rural,https://www.bogan.nsw.gov.au/,admin@bogan.nsw.gov.au,New South Wales,https://abs.gov.au/census/find-census-data/quickstats/2021/LGA10950,NSW,1
+LGA50770,Boyup Brook,lga,rural,https://www.boyupbrook.wa.gov.au/,shire@boyupbrook.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA50770,WA,1
+LGA60210,Break O'Day,lga,rural,https://www.bodc.tas.gov.au/,admin@bodc.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA60210,TAS,1
+LGA11200,Brewarrina,lga,rural,https://www.brewarrina.nsw.gov.au/,breshire@brewarrina.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA11200,NSW,1
+LGA11250,Broken Hill,lga,rural,https://www.brokenhill.nsw.gov.au/Home,council@brokenhill.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA11250,NSW,2
+LGA50910,Brookton,lga,rural,https://www.brookton.wa.gov.au/,mail@brookton.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA50910,WA,1
+LGA50980,Broome,lga,rural,https://www.broome.wa.gov.au/Home,shire@broome.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA50980,WA,1
+LGA51120,Bruce Rock,lga,rural,https://www.brucerock.wa.gov.au/,admin@brucerock.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA51120,WA,2
+LGA21270,Buloke,lga,rural,https://www.buloke.vic.gov.au/,buloke@buloke.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA21270,VIC,2
+LGA31900,Burdekin,lga,rural,https://www.burdekin.qld.gov.au/,enquiries@burdekin.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA31900,QLD,2
+LGA31950,Burke,lga,rural,https://www.burke.qld.gov.au/,office@burke.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA31950,QLD,2
+LGA11400,Cabonne,lga,rural,https://www.cabonne.nsw.gov.au/Home,council@cabonne.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA11400,NSW,1
+LGA51540,Carnarvon,lga,rural,https://www.carnarvon.wa.gov.au/,shire@carnarvon.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA51540,WA,1
+LGA32250,Carpentaria,lga,rural,https://www.carpentaria.qld.gov.au/,council@carpentaria.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA32250,QLD,4
+LGA32260,Cassowary Coast,lga,rural,https://www.cassowarycoast.qld.gov.au/,enquiries@ccrc.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA32260,QLD,3
+LGA41010,Ceduna,lga,rural,https://www.ceduna.sa.gov.au/,council@ceduna.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA41010,SA,2
+LGA11700,Central Darling,lga,rural,https://www.centraldarling.nsw.gov.au/Home,council@centraldarling.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA11700,NSW,1
+LGA21670,Central Goldfields,lga,rural,https://www.centralgoldfields.vic.gov.au/Home,mail@cgoldshire.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA21670,VIC,4
+LGA51680,Chittering,lga,rural,https://www.chittering.wa.gov.au/,chatter@chittering.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA51680,WA,1
+LGA41140,Clare and Gilbert Valleys,lga,rural,https://www.claregilbertvalleys.sa.gov.au/,admin@cgvc.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA41140,SA,3
+LGA11730,Clarence Valley,lga,rural,https://www.clarence.nsw.gov.au/Home,council@clarence.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA11730,NSW,3
+LGA41190,Cleve,lga,rural,https://www.cleve.sa.gov.au/,council@cleve.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA41190,SA,1
+LGA32450,Cloncurry,lga,rural,https://www.cloncurry.qld.gov.au/,council@cloncurry.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA32450,QLD,1
+LGA11750,Cobar,lga,rural,https://www.cobar.nsw.gov.au/,mail@cobar.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA11750,NSW,1
+LGA21750,Colac Otway,lga,rural,https://www.colacotway.vic.gov.au/Home,inq@colacotway.vic.gov.au,Victoria,https://abs.gov.au/census/find-census-data/quickstats/2021/LGA21750,VIC,4
+LGA41330,Coober Pedy,lga,rural,https://www.cooberpedy.sa.gov.au/,dccp@cpcouncil.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA41330,SA,1
+LGA32500,Cook,lga,rural,https://www.cook.qld.gov.au/,mail@cook.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA32500,QLD,1
+LGA47800,The Coorong,lga,rural,https://www.coorong.sa.gov.au/,council@coorong.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA47800,SA,1
+LGA21830,Corangamite,lga,rural,https://www.corangamite.vic.gov.au/Home,shire@corangamite.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA21830,VIC,3
+LGA12350,Cowra,lga,rural,https://www.cowracouncil.com.au/Cowra-Council-Home,council@cowra.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA12350,NSW,1
+LGA52240,Cranbrook,lga,rural,https://www.cranbrook.wa.gov.au/,http://admin@cranbrook.wa.gov.au/,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA52240,WA,1
+LGA14170,Inner West,lga,rural,https://www.innerwest.nsw.gov.au/about/policies-plans-and-regulations/land-and-property/hazmat-reports/croydon,council@innerwest.nsw.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA14170,QLD,1
+LGA52310,Cuballing,lga,rural,https://www.cuballing.wa.gov.au/,enquiries@cuballing.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA52310,WA,1
+LGA52380,Cue,lga,rural,https://www.cue.wa.gov.au/about/council,shire@cue.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA52380,WA,1
+LGA52520,Dalwallinu,lga,rural,https://www.dalwallinu.wa.gov.au/,shire@dalwallinu.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA52520,WA,1
+LGA52590,Dandaragan,lga,rural,https://www.dandaragan.wa.gov.au/,council@dandaragan.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA52590,WA,1
+LGA52730,Denmark,lga,rural,https://www.denmark.wa.gov.au/,enquiries@denmark.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA52730,WA,4
+LGA61810,Dorset,lga,rural,https://www.dorset.tas.gov.au/,dorset@dorset.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA61810,TAS,2
+LGA32810,Douglas,lga,rural,https://douglas.qld.gov.au/,enquiries@douglas.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA32810,QLD,1
+LGA52940,Dowerin,lga,rural,https://www.dowerin.wa.gov.au/,dowshire@dowerin.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA52940,WA,1
+LGA12390,Dubbo Regional,lga,rural,https://www.dubbo.nsw.gov.au/,council@dubbo.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA12390,NSW,5
+LGA53010,Dumbleyung,lga,rural,https://www.dumbleyung.wa.gov.au/,enquiries@dumbleyung.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA53010,WA,1
+LGA53080,Dundas,lga,rural,https://www.dundas.wa.gov.au/,shire@dundas.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA53080,WA,1
+LGA12730,Edward River,lga,rural,https://www.edwardriver.nsw.gov.au/Home,council@edwardriver.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA12730,NSW,1
+LGA53290,Esperance,lga,rural,https://www.esperance.wa.gov.au/,shire@esperance.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA53290,WA,3
+LGA12750,Eurobodalla,lga,rural,https://www.esc.nsw.gov.au/,council@esc.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA12750,NSW,4
+LGA53360,Exmouth,lga,rural,https://www.exmouth.wa.gov.au/,info@exmouth.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA53360,WA,1
+LGA12870,Federation,lga,rural,https://www.federationcouncil.nsw.gov.au/Home,council@federationcouncil.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA12870,NSW,1
+LGA12900,Forbes,lga,rural,https://www.forbes.nsw.gov.au/,forbes@forbes.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA12900,NSW,1
+LGA41960,Franklin Harbour,lga,rural,https://www.franklinharbour.sa.gov.au/,council@franklinharbour.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA41960,SA,1
+LGA22250,Gannawarra,lga,rural,https://www.gannawarra.vic.gov.au/Home,council@gsc.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA22250,VIC,2
+LGA53570,Gingin,lga,rural,https://www.gingin.wa.gov.au/,mail@gingin.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA53570,WA,2
+LGA33360,Gladstone,lga,rural,https://www.gladstone.qld.gov.au/,info@gladstone.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA33360,QLD,3
+LGA62410,Glamorgan/Spring Bay,lga,rural,https://gsbc.tas.gov.au/,admin@freycinet.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA62410,TAS,1
+LGA53640,Gnowangerup,lga,rural,https://www.gnowangerup.wa.gov.au/,gnpshire@gnowangerup.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA53640,WA,1
+LGA53710,Goomalling,lga,rural,https://www.goomalling.wa.gov.au/,goshire@goomalling.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA53710,WA,1
+LGA33610,Goondiwindi,lga,rural,https://www.grc.qld.gov.au/,mail@grc.qld.gov.au,Queensland,https://abs.gov.au/census/find-census-data/quickstats/2021/LGA33610,QLD,1
+LGA13310,Goulburn Mulwaree,lga,rural,https://www.goulburn.nsw.gov.au/Home,council@goulburn.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA13310,NSW,1
+LGA42110,Goyder,lga,rural,https://www.goyder.sa.gov.au/,council@goyder.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA42110,SA,1
+LGA42250,Grant,lga,rural,https://www.dcgrant.sa.gov.au/,info@dcgrant.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA42250,SA,1
+LGA53800,Greater Geraldton,lga,rural,https://www.cgg.wa.gov.au/,council@cgg.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA53800,WA,3
+LGA13450,Griffith,lga,rural,https://www.griffith.nsw.gov.au/,admin@griffith.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA13450,NSW,1
+LGA13550,Gunnedah,lga,rural,https://www.gunnedah.nsw.gov.au/,council@infogunnedah.com.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA13550,NSW,1
+LGA53920,Halls Creek,lga,rural,https://www.hallscreek.wa.gov.au/,hcshire@hcshire.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA53920,WA,1
+LGA13850,Hay,lga,rural,https://www.hay.nsw.gov.au/,mail@hay.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA13850,NSW,1
+LGA13910,Hilltops,lga,rural,https://www.hilltops.nsw.gov.au/,mail@hilltops.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA13910,NSW,1
+LGA22980,Hindmarsh,lga,rural,https://www.hindmarsh.vic.gov.au/Home,info@hindmarsh.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA22980,VIC,1
+LGA33830,Hope Vale,lga,rural,https://www.hopevale.qld.gov.au/,info@hopevale.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA33830,QLD,1
+LGA14220,Inverell,lga,rural,https://inverell.nsw.gov.au/,council@inverell.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA14220,NSW,1
+LGA54060,Irwin,lga,rural,https://www.irwin.wa.gov.au/,reception@irwin.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA54060,WA,1
+LGA54280,Kalgoorlie/Boulder,lga,rural,https://www.ckb.wa.gov.au/,mailbag@ckb.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA54280,WA,1
+LGA42750,Kangaroo Island,lga,rural,https://www.kangarooisland.sa.gov.au/,kicouncil@kicouncil.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA42750,SA,1
+LGA72200,Katherine,lga,rural,https://www.katherine.nt.gov.au/,records@ktc.nt.gov.au,Northern Territory,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA72200,NT,1
+LGA54410,Kellerberrin,lga,rural,https://www.kellerberrin.wa.gov.au/,shire@kellerberrin.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA54410,WA,1
+LGA14350,Kempsey,lga,rural,https://www.kempsey.nsw.gov.au/Home,ksc@kempsey.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA14350,NSW,1
+LGA63210,Kentish,lga,rural,https://www.kentish.tas.gov.au/,council@kentish.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA63210,TAS,1
+LGA43220,Kimba,lga,rural,https://www.kimba.sa.gov.au/,council@kimba.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA43220,SA,1
+LGA54550,Kojonup,lga,rural,https://www.kojonup.wa.gov.au/,council@kojonup.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA54550,WA,1
+LGA54620,Kondinin,lga,rural,https://www.kondinin.wa.gov.au/,cso@kondinin.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA54620,WA,1
+LGA54690,Koorda,lga,rural,https://www.koorda.wa.gov.au/,shire@koorda.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA54690,WA,1
+LGA14550,Kyogle,lga,rural,https://www.kyogle.nsw.gov.au/,council@kyogle.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA14550,NSW,1
+LGA14600,Lachlan,lga,rural,https://www.lachlan.nsw.gov.au/Home,council@lachlan.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA14600,NSW,1
+LGA54900,Lake Grace,lga,rural,https://www.lakegrace.wa.gov.au/,shire@lakegrace.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA54900,WA,1
+LGA14750,Leeton,lga,rural,https://www.leeton.nsw.gov.au/Home,council@leeton.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA14750,NSW,1
+LGA55040,Leonora,lga,rural,https://www.leonora.wa.gov.au/,admin@leonora.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA55040,WA,1
+LGA43650,Light,lga,rural,https://www.light.sa.gov.au/,light@light.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA43650,SA,1
+LGA34530,Livingstone,lga,rural,https://www.livingstone.qld.gov.au/,enquiries@livingstone.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA34530,QLD,2
+LGA14950,Lockhart,lga,rural,https://lockhart.nsw.gov.au/,mail@lockhart.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA14950,NSW,1
+LGA34710,Longreach,lga,rural,https://www.longreach.qld.gov.au/,assist@longreach.qld.gov.au,Queensland,https://abs.gov.au/census/find-census-data/quickstats/2021/LGA34710,QLD,1
+LGA43710,Lower Eyre Peninsula,lga,rural,https://www.lowereyrepeninsula.sa.gov.au/,mail@dclep.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA43710,SA,1
+LGA43790,Loxton Waikerie,lga,rural,https://www.loxtonwaikerie.sa.gov.au/,council@lwdc.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA43790,SA,2
+LGA55180,Manjimup,lga,rural,https://www.manjimup.wa.gov.au/,info@manjimup.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA55180,WA,1
+LGA34880,Mareeba,lga,rural,https://msc.qld.gov.au/,info@msc.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA34880,QLD,2
+LGA44210,Mid Murray,lga,rural,https://www.mid-murray.sa.gov.au/,postbox@mid-murray.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA44210,SA,1
+LGA24900,Moira,lga,rural,https://www.moira.vic.gov.au/Home,info@moira.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA24900,VIC,2
+LGA55600,Moora,lga,rural,https://www.moora.wa.gov.au/,shire@moora.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA55600,WA,1
+LGA55670,Morawa,lga,rural,https://www.morawa.wa.gov.au/,admin@morawa.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA55670,WA,1
+LGA35250,Mornington,lga,rural,https://www.mornington.qld.gov.au/,info@mornington.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA35250,QLD,1
+LGA55810,Mount Magnet,lga,rural,https://www.mtmagnet.wa.gov.au/,shire@mtmagnet.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA55810,WA,1
+LGA25490,Moyne,lga,rural,https://www.moyne.vic.gov.au/Home,moyne@moyne.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA25490,VIC,2
+LGA55950,Mukinbudin,lga,rural,https://www.mukinbudin.wa.gov.au/,admin@mukinbudin.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA55950,WA,1
+LGA15520,Murray River,lga,rural,https://www.murrayriver.nsw.gov.au/Home,admin@murrayriver.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA15520,NSW,1
+LGA25620,Murrindindi,lga,rural,https://www.murrindindi.vic.gov.au/Home,customer@murrindindi.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA25620,VIC,2
+LGA15650,Muswellbrook,lga,rural,https://www.muswellbrook.nsw.gov.au/,council@muswellbrook.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA15650,NSW,1
+LGA15700,Nambucca,lga,rural,https://www.nambucca.nsw.gov.au/Home,council@nambucca.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA15700,NSW,1
+LGA35670,Napranum,lga,rural,http://www.napranum.qld.gov.au/,reception@napranum.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA35670,QLD,1
+LGA45090,Naracoorte and Lucindale,lga,rural,https://www.naracoortelucindale.sa.gov.au/,council@nlc.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA45090,SA,1
+LGA15750,Narrabri,lga,rural,https://www.narrabri.nsw.gov.au/Home,council@narrabri.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA15750,NSW,1
+LGA56460,Narrogin,lga,rural,https://www.narrogin.wa.gov.au/,enquiries@narrogin.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA56460,WA,1
+LGA15850,Narromine,lga,rural,https://www.narromine.nsw.gov.au/,mail@narromine.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA15850,NSW,1
+LGA56620,Ngaanyatjarraku,lga,rural,https://www.ngaanyatjarraku.wa.gov.au/,mail@ngaanyatjarraku.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA56620,WA,1
+LGA56790,Northampton,lga,rural,https://www.northampton.wa.gov.au/,council@northampton.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA56790,WA,1
+LGA45120,Northern Areas,lga,rural,https://www.nacouncil.sa.gov.au/,admin@nacouncil.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA45120,SA,1
+LGA25810,Northern Grampians,lga,rural,https://www.ngshire.vic.gov.au/Home,ngshire@ngshire.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA25810,VIC,1
+LGA64610,Northern Midlands,lga,rural,https://northernmidlands.tas.gov.au/,council@nmc.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA64610,TAS,2
+LGA56860,Nungarin,lga,rural,https://www.nungarin.wa.gov.au/,cso1@nungarin.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA56860,WA,1
+LGA16100,Oberon,lga,rural,https://www.oberon.nsw.gov.au/Home,council@oberon.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA16100,NSW,1
+LGA35790,Palm Island,lga,rural,https://www.palmcouncil.qld.gov.au/,reception@palmcouncil.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA35790,QLD,1
+LGA46300,Port Lincoln,lga,rural,https://www.portlincoln.sa.gov.au/,plcc@plcc.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA46300,SA,1
+LGA46450,Port Pirie,lga,rural,https://www.pirie.sa.gov.au/,council@pirie.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA46450,SA,1
+LGA25990,Pyrenees,lga,rural,https://www.pyrenees.vic.gov.au/Home,pyrenees@pyrenees.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA25990,VIC,4
+LGA46670,Renmark Paringa,lga,rural,https://www.renmarkparinga.sa.gov.au/,council@renmarkparinga.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA46670,SA,2
+LGA16610,Richmond Valley,lga,rural,https://richmondvalley.nsw.gov.au/,council@richmondvalley.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA16610,NSW,1
+LGA46860,Robe,lga,rural,https://www.robe.sa.gov.au/,council@robe.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA46860,SA,3
+LGA57770,Shark Bay,lga,rural,https://www.sharkbay.wa.gov.au/,admin@sharkbay.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA57770,WA,1
+LGA16950,Shoalhaven,lga,rural,https://www.shoalhaven.nsw.gov.au/Home,council@shoalhaven.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA16950,NSW,1
+LGA17000,Singleton,lga,rural,https://www.singleton.nsw.gov.au/Home,council@singleton.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA17000,NSW,1
+LGA17040,Snowy Monaro Regional,lga,rural,https://www.snowymonaro.nsw.gov.au/Home,council@snowymonaro.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA17040,NSW,1
+LGA36580,Somerset,lga,rural,https://www.somerset.qld.gov.au/,mail@somerset.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA36580,QLD,1
+LGA26260,Southern Grampians,lga,rural,https://www.sthgrampians.vic.gov.au/page/HomePage.aspx,council@sthgrampians.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA26260,VIC,1
+LGA47290,Southern Mallee,lga,rural,https://www.southernmallee.sa.gov.au/,council@southernmallee.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA47290,SA,1
+LGA65010,Southern Midlands,lga,rural,https://www.southernmidlands.tas.gov.au/,mail@southernmidlands.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA65010,TAS,11
+LGA26430,Strathbogie,lga,rural,https://www.strathbogie.vic.gov.au/,info@strathbogie.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA26430,VIC,3
+LGA47490,Streaky Bay,lga,rural,https://www.streakybay.sa.gov.au/,dcstreaky@streakybay.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA47490,SA,1
+LGA26610,Swan Hill,lga,rural,https://www.swanhill.vic.gov.au/,council@swanhill.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA26610,VIC,1
+LGA17310,Tamworth Regional,lga,rural,https://www.tamworth.nsw.gov.au/,trc@tamworth.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA17310,NSW,1
+LGA47630,Tatiara,lga,rural,https://www.tatiara.sa.gov.au/,office@tatiara.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA47630,SA,1
+LGA58330,Toodyay,lga,rural,https://www.toodyay.wa.gov.au/,records@toodyay.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA58330,WA,1
+LGA36950,Torres,lga,rural,https://www.torres.qld.gov.au/,info@torres.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA36950,QLD,1
+LGA36960,Torres Strait Island,lga,rural,https://www.tsirc.qld.gov.au/,info@tsirc.qld.gov.au/,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA36960,QLD,2
+LGA58400,Trayning,lga,rural,https://www.trayning.wa.gov.au/,admin@trayning.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA58400,WA,1
+LGA47910,Tumby Bay,lga,rural,https://www.tumbybay.sa.gov.au/,dctumby@tumbybay.sa.gov.au,South Australia,https://abs.gov.au/census/find-census-data/quickstats/2021/LGA47910,SA,1
+LGA49399,Unincorporated SA,lga,rural,https://www.oca.sa.gov.au/,oca@sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA49399,SA,3
+LGA58540,Victoria Plains,lga,rural,https://www.victoriaplains.wa.gov.au/,reception@victoriaplains.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA58540,WA,1
+LGA58610,Wagin,lga,rural,https://www.wagin.wa.gov.au/,shire@wagin.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA58610,WA,1
+LGA48130,Wakefield,lga,rural,https://www.wrc.sa.gov.au/,admin@wrc.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA48130,SA,1
+LGA17900,Walgett,lga,rural,https://www.walgett.nsw.gov.au/Home,admin@walgett.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA17900,NSW,1
+LGA58680,Wandering,lga,rural,https://www.wandering.wa.gov.au/,reception@wandering.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA58680,WA,1
+LGA26700,Wangaratta,lga,rural,https://www.wangaratta.vic.gov.au/Home,council@wangaratta.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA26700,VIC,3
+LGA65410,Waratah/Wynyard,lga,rural,https://www.warwyn.tas.gov.au/,council@warwyn.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA65410,TAS,2
+LGA17950,Warren,lga,rural,https://www.warren.nsw.gov.au/,council@warren.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA17950,NSW,1
+LGA26730,Warrnambool,lga,rural,https://www.warrnambool.vic.gov.au/,contact@warrnambool.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA26730,VIC,2
+LGA18020,Warrumbungle Shire,lga,rural,https://www.warrumbungle.nsw.gov.au/,info@warrumbungle.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA18020,NSW,1
+LGA48340,Wattle Range,lga,rural,https://www.wattlerange.sa.gov.au/,council@wattlerange.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA48340,SA,3
+LGA37300,Weipa,lga,rural,https://www.weipatownauthority.com.au/,admin@weipatownauthority.com.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA37300,QLD,1
+LGA26810,Wellington,lga,rural,https://www.wellington.vic.gov.au/,enquiries@wellington.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA26810,VIC,3
+LGA58890,West Arthur,lga,rural,https://www.westarthur.wa.gov.au/,shire@westarthur.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA58890,WA,1
+LGA65610,West Coast,lga,rural,https://www.westcoast.tas.gov.au/,wcc@westcoast.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA65610,TAS,1
+LGA26890,West Wimmera,lga,rural,https://www.westwimmera.vic.gov.au/Home,council@westwimmera.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA26890,VIC,1
+LGA37310,Western Downs,lga,rural,https://www.wdrc.qld.gov.au/Home,info@wdrc.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA37310,QLD,1
+LGA37340,Whitsunday,lga,rural,https://www.whitsundayrc.qld.gov.au/,info@whitsundayrc.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA37340,QLD,4
+LGA48540,Whyalla,lga,rural,https://www.whyalla.sa.gov.au/,council@whyalla.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA48540,SA,2
+LGA59170,Williams,lga,rural,https://www.williams.wa.gov.au/,shire@williams.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA59170,WA,1
+LGA37400,Winton,lga,rural,https://www.winton.qld.gov.au/,info@winton.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA37400,QLD,1
+LGA59310,Wongan-Ballidu,lga,rural,https://www.wongan.wa.gov.au/,shire@wongan.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA59310,WA,1
+LGA59320,Woodanilling,lga,rural,https://www.woodanilling.wa.gov.au/,shire@woodanilling.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA59320,WA,1
+LGA48640,Wudinna,lga,rural,https://www.wudinna.sa.gov.au/,admin@wudinna.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA48640,SA,1
+LGA59330,Wyalkatchem,lga,rural,https://www.wyalkatchem.wa.gov.au/,general@wyalkatchem.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA59330,WA,1
+LGA59350,Yalgoo,lga,rural,https://www.yalgoo.wa.gov.au/,pa@yalgoo.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA59350,WA,1
+LGA48750,Yankalilla,lga,rural,https://www.yankalilla.sa.gov.au/,council@yankalilla.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA48750,SA,1
+LGA27630,Yarriambiack,lga,rural,https://www.yarriambiack.vic.gov.au/Home,info@yarriambiack.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA27630,VIC,2
+LGA59360,Yilgarn,lga,rural,https://www.yilgarn.wa.gov.au/council.aspx,yilgarn@yilgarn.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA59360,WA,1
+LGA59370,York,lga,rural,https://www.york.wa.gov.au/,records@york.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA59370,WA,1
+LGA48830,Yorke Peninsula,lga,rural,https://yorke.sa.gov.au/,admin@yorke.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA48830,SA,2
+LGA40120,Adelaide Hills,lga,mixed,https://www.ahc.sa.gov.au/,mail@ahc.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA40120,SA,8
+LGA10050,Albury,lga,mixed,https://www.alburycity.nsw.gov.au/,info@alburycity.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA10050,NSW,4
+LGA20570,Ballarat,lga,mixed,https://www.ballarat.vic.gov.au/,info@ballarat.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA20570,VIC,3
+LGA60410,Brighton,lga,mixed,https://www.brighton.tas.gov.au/,admin@brighton.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA60410,TAS,5
+LGA31820,Bundaberg,lga,mixed,https://www.bundaberg.qld.gov.au/,ceo@bundaberg.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA31820,QLD,4
+LGA51260,Busselton,lga,mixed,https://www.busselton.wa.gov.au/,city@busselton.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA51260,WA,4
+LGA11350,Byron,lga,mixed,https://www.byron.nsw.gov.au/Home,council@byron.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA11350,NSW,5
+LGA32080,Cairns,lga,mixed,https://www.cairns.qld.gov.au/,council@cairns.qld.gov.au,Queensland,https://abs.gov.au/census/find-census-data/quickstats/2021/LGA32080,QLD,2
+LGA21370,Campaspe,lga,mixed,https://www.campaspe.vic.gov.au/Home,shire@campaspe.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA21370,VIC,1
+LGA21450,Cardinia,lga,mixed,https://www.cardinia.vic.gov.au/,mail@cardinia.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA21450,VIC,9
+LGA11720,Cessnock,lga,mixed,https://www.cessnock.nsw.gov.au/Home,council@cessnock.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA11720,NSW,2
+LGA32310,Charters Towers,lga,mixed,https://www.charterstowers.qld.gov.au/,mail@charterstowers.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA32310,QLD,1
+LGA11800,Coffs Harbour,lga,mixed,https://www.coffsharbour.nsw.gov.au/Home,coffs.council@chcc.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA11800,NSW,4
+LGA61510,Derwent Valley,lga,mixed,https://www.derwentvalley.tas.gov.au/,dvcouncil@dvc.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA61510,TAS,2
+LGA52870,Donnybrook-Balingup,lga,mixed,https://www.donnybrook-balingup.wa.gov.au/,shire@donnybrook.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA52870,WA,1
+LGA12700,Dungog,lga,mixed,https://www.dungog.nsw.gov.au/Home,shirecouncil@dungog.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA12700,NSW,1
+LGA22110,East Gippsland,lga,mixed,https://www.eastgippsland.vic.gov.au/,feedback@egipps.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA22110,VIC,2
+LGA62010,Flinders,lga,mixed,https://www.flinders.tas.gov.au/,office@flinders.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA62010,TAS,1
+LGA33220,Fraser Coast,lga,mixed,https://www.frasercoast.qld.gov.au/,enquiry@frasercoast.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA33220,QLD,6
+LGA42030,Gawler,lga,mixed,https://www.gawler.sa.gov.au/,council@gawler.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA42030,SA,5
+LGA12950,Gilgandra,lga,mixed,https://www.gilgandra.nsw.gov.au/Home,council@gilgandra.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA12950,NSW,1
+LGA33430,Gold Coast,lga,mixed,https://www.goldcoast.qld.gov.au/Home,mail@goldcoast.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA33430,QLD,3
+LGA22490,Golden Plains,lga,mixed,https://www.goldenplains.vic.gov.au/,enquiries@gplains.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA22490,VIC,3
+LGA22620,Greater Bendigo,lga,mixed,https://www.bendigo.vic.gov.au/,requests@bendigo.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA22620,VIC,7
+LGA22750,Greater Geelong,lga,mixed,https://www.geelongaustralia.com.au/,contactus@geelongcity.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA22750,VIC,8
+LGA22830,Greater Shepparton,lga,mixed,https://greatershepparton.com.au/,council@shepparton.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA22830,VIC,5
+LGA13800,Hawkesbury,lga,mixed,https://www.hawkesbury.nsw.gov.au/,council@hawkesbury.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA13800,NSW,5
+LGA22910,Hepburn,lga,mixed,https://www.hepburn.vic.gov.au/Home,shire@hepburn.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA22910,VIC,3
+LGA14000,Hornsby,lga,mixed,https://www.hornsby.nsw.gov.au/,hsc@hornsby.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA14000,NSW,7
+LGA23350,Indigo,lga,mixed,https://www.indigoshire.vic.gov.au/Home,info@indigoshire.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA23350,VIC,8
+LGA33960,Ipswich,lga,mixed,https://www.ipswich.qld.gov.au/,council@ipswich.qld.gov.au,Queensland,https://abs.gov.au/census/find-census-data/quickstats/2021/LGA33960,QLD,5
+LGA14300,Junee,lga,mixed,https://www.junee.nsw.gov.au/,council@ipswich.qld.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA14300,NSW,1
+LGA14400,Kiama,lga,mixed,https://www.kiama.nsw.gov.au/Home,council@kiama.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA14400,NSW,4
+LGA63610,Kingborough,lga,mixed,https://www.kingborough.tas.gov.au/,kc@kingborough.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA63610,TAS,4
+LGA43360,Kingston,lga,mixed,https://www.kingston.vic.gov.au/Home,info@kingston.vic.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA43360,SA,7
+LGA23810,Latrobe,lga,mixed,https://www.latrobe.vic.gov.au/,latrobe@latrobe.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA23810,VIC,3
+LGA64010,Launceston,lga,mixed,https://www.launceston.tas.gov.au/Home,latrobe@latrobe.vic.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA64010,TAS,5
+LGA14850,Lismore,lga,mixed,https://www.lismore.nsw.gov.au/Home,council@lismore.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA14850,NSW,6
+LGA72300,Litchfield,lga,mixed,https://litchfield.nt.gov.au/,council@litchfield.nt.gov.au,Northern Territory,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA72300,NT,1
+LGA24130,Macedon Ranges,lga,mixed,https://www.mrsc.vic.gov.au/Home,mrsc@mrsc.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA24130,VIC,11
+LGA34770,Mackay,lga,mixed,https://www.mackay.qld.gov.au/,council@mackay.qld.gov.au,Queensland,https://abs.gov.au/census/find-census-data/quickstats/2021/LGA34770,QLD,3
+LGA64210,Meander Valley,lga,mixed,https://www.meander.tas.gov.au/,mail@mvc.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA64210,TAS,1
+LGA24780,Mildura,lga,mixed,https://www.mildura.vic.gov.au/Mildura-Rural-City-Council,mrcc@mildura.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA24780,VIC,7
+LGA24850,Mitchell,lga,mixed,https://www.mitchellshire.vic.gov.au/,mitchell@mitchellshire.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA24850,VIC,4
+LGA25150,Moorabool,lga,mixed,https://www.moorabool.vic.gov.au/Home,info@moorabool.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA25150,VIC,1
+LGA35010,Moreton Bay,lga,mixed,https://www.moretonbay.qld.gov.au/Home,council@moretonbay.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA35010,QLD,3
+LGA25340,Mornington Peninsula,lga,mixed,https://www.mornpen.vic.gov.au/Home,customerservice@mornpen.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA25340,VIC,3
+LGA25430,Mount Alexander,lga,mixed,https://www.mountalexander.vic.gov.au/Home,info@mountalexander.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA25430,VIC,8
+LGA44550,Mount Barker,lga,mixed,https://www.mountbarker.sa.gov.au/,council@mountbarker.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA44550,SA,2
+LGA35300,Mount Isa,lga,mixed,https://www.mountisa.qld.gov.au/,city@mountisa.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA35300,QLD,1
+LGA56090,Mundaring,lga,mixed,https://www.mundaring.wa.gov.au/,shire@mundaring.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA56090,WA,5
+LGA56230,Murray,lga,mixed,https://www.murray.wa.gov.au/,mailbag@murray.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA56230,WA,1
+LGA45040,Murray Bridge,lga,mixed,https://www.murraybridge.sa.gov.au/,council@murraybridge.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA45040,SA,4
+LGA35740,Noosa,lga,mixed,https://www.noosa.qld.gov.au/,mail@noosa.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA35740,QLD,4
+LGA45340,Onkaparinga,lga,mixed,https://www.onkaparingacity.com/Home,mail@onkaparinga.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA45340,SA,5
+LGA26080,Queenscliffe,lga,mixed,https://www.queenscliffe.vic.gov.au/Home,info@queenscliffe.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA26080,VIC,6
+LGA36250,Redland,lga,mixed,https://www.redland.qld.gov.au/,rcc@redland.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA36250,QLD,4
+LGA36370,Rockhampton,lga,mixed,https://www.rockhamptonregion.qld.gov.au/Home,enquiries@rrc.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA36370,QLD,5
+LGA36510,Scenic Rim,lga,mixed,https://www.scenicrim.qld.gov.au/,mail@scenicrim.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA36510,QLD,3
+LGA57700,Serpentine-Jarrahdale,lga,mixed,https://www.sjshire.wa.gov.au/,info@sjshire.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA57700,WA,3
+LGA17080,Snowy Valleys,lga,mixed,https://www.snowyvalleys.nsw.gov.au/Home,info@svc.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA17080,NSW,2
+LGA64810,Sorell,lga,mixed,https://www.sorell.tas.gov.au/,sorell.council@sorell.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA64810,TAS,2
+LGA26170,South Gippsland,lga,mixed,https://www.southgippsland.vic.gov.au/,council@southgippsland.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA26170,VIC,4
+LGA36660,Southern Downs,lga,mixed,https://www.sdrc.qld.gov.au/,mail@sdrc.qld.gov.au,Queensland,https://abs.gov.au/census/find-census-data/quickstats/2021/LGA36660,QLD,3
+LGA36720,Sunshine Coast,lga,mixed,https://www.sunshinecoast.qld.gov.au/,mail@sunshinecoast.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA36720,QLD,6
+LGA26490,Surf Coast,lga,mixed,https://www.surfcoast.vic.gov.au/Home,info@surfcoast.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA26490,VIC,9
+LGA36820,Tablelands,lga,mixed,https://www.trc.qld.gov.au/,info@trc.qld.gov.au/,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA36820,QLD,1
+LGA17420,The Hills Shire,lga,mixed,https://www.thehills.nsw.gov.au/Home,media@thehills.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA17420,NSW,1
+LGA74050,Tiwi Islands,lga,mixed,https://tiwiislands.org.au/,reception@tiwiislands.nt.gov.au,Northern Territory,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA74050,NT,1
+LGA36910,Toowoomba,lga,mixed,https://tr.qld.gov.au/,info@tr.qld.gov.au,Queensland,https://abs.gov.au/census/find-census-data/quickstats/2021/LGA36910,QLD,6
+LGA37010,Townsville,lga,mixed,https://www.townsville.qld.gov.au/,enquiries@townsville.qld.gov.au,Queensland,https://abs.gov.au/census/find-census-data/quickstats/2021/LGA37010,QLD,3
+LGA26670,Towong,lga,mixed,https://www.towong.vic.gov.au/,info@towong.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA26670,VIC,1
+LGA17550,Tweed,lga,mixed,https://www.tweed.nsw.gov.au/home,tsc@tweed.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA17550,NSW,5
+LGA48050,Victor Harbor,lga,mixed,https://www.victor.sa.gov.au/,localgov@victor.sa.gov.au,South Australia,https://abs.gov.au/census/find-census-data/quickstats/2021/LGA48050,SA,5
+LGA58820,Waroona,lga,mixed,https://www.waroona.wa.gov.au/,warshire@waroona.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA58820,WA,1
+LGA65810,West Tamar,lga,mixed,https://www.wtc.tas.gov.au/,wtc@wtc.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA65810,TAS,1
+LGA27070,Whittlesea,lga,mixed,https://www.whittlesea.vic.gov.au/,info@whittlesea.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA27070,VIC,6
+LGA18350,Wingecarribee,lga,mixed,https://www.wsc.nsw.gov.au/Home,mail@wsc.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA18350,NSW,4
+LGA27170,Wodonga,lga,mixed,https://www.wodonga.vic.gov.au/,info@wodonga.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA27170,VIC,4
+LGA18400,Wollondilly,lga,mixed,https://www.wollondilly.nsw.gov.au/,council@wollondilly.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA18400,NSW,1
+LGA37550,Woorabinda,lga,mixed,https://www.woorabinda.qld.gov.au/,ea@woorabinda.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA37550,QLD,1
+LGA59340,Wyndham-East Kimberley,lga,mixed,https://www.swek.wa.gov.au/,mail@swek.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA59340,WA,2
+LGA27450,Yarra Ranges,lga,mixed,https://www.yarraranges.vic.gov.au/Home,mail@yarraranges.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA27450,VIC,10
+LGA37600,Yarrabah,lga,mixed,https://www.yarrabah.qld.gov.au/,council@yarrabah.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA37600,QLD,1
+LGA18710,Yass Valley,lga,mixed,https://www.yassvalley.nsw.gov.au/Home,Council@yass.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA18710,NSW,1
+LGA40150,Adelaide Plains,lga,rural,https://www.apc.sa.gov.au/,info@apc.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA40150,SA,1
+LGA10250,Ballina,lga,rural,https://ballina.nsw.gov.au/,council@ballina.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA10250,NSW,2
+LGA30300,Balonne,lga,rural,https://www.balonne.qld.gov.au/,council@balonne.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA30300,QLD,2
+LGA40430,Barunga West,lga,rural,https://www.barungawest.sa.gov.au/,barunga@barungawest.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA40430,SA,1
+LGA50560,Beverley,lga,rural,https://www.beverley.wa.gov.au/,admin@beverley.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA50560,WA,1
+LGA30760,Blackall-Tambo,lga,rural,https://www.btrc.qld.gov.au/,admin@btrc.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA30760,QLD,1
+LGA50630,Boddington,lga,rural,https://www.boddington.wa.gov.au/,shire@boddington.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA50630,WA,1
+LGA11150,Bourke,lga,rural,https://bourke.nsw.gov.au/,bourkeshire@bourke.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA11150,NSW,1
+LGA50840,Bridgetown-Greenbushes,lga,rural,https://www.bridgetown.wa.gov.au/,btnshire@bridgetown.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA50840,WA,1
+LGA51080,Broomehill-Tambellup,lga,rural,https://www.shirebt.wa.gov.au/,mail@shirebt.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA51080,WA,1
+LGA31750,Bulloo,lga,rural,https://www.bulloo.qld.gov.au/,Council@bulloo.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA31750,QLD,1
+LGA11600,Carrathool,lga,rural,https://carrathool.nsw.gov.au/,council@carrathool.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA11600,NSW,1
+LGA51610,Chapman Valley,lga,rural,https://www.chapmanvalley.wa.gov.au/,cso@chapmanvalley.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA51610,WA,1
+LGA32330,Cherbourg,lga,rural,https://cherbourg.qld.gov.au/,ceo@cherbourg.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA32330,QLD,1
+LGA61210,Circular Head,lga,rural,https://www.circularhead.tas.gov.au/,council@circularhead.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA61210,TAS,1
+LGA51890,Collie,lga,rural,https://www.collie.wa.gov.au/,colshire@collie.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA51890,WA,1
+LGA12000,Coolamon,lga,rural,https://coolamon.nsw.gov.au/,council@coolamon.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA12000,NSW,1
+LGA51960,Coolgardie,lga,rural,https://www.coolgardie.wa.gov.au/,mail@coolgardie.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA51960,WA,1
+LGA70700,Coomalie,lga,rural,https://www.coomalie.nt.gov.au/,admin@coomalie.nt.gov.au,Northern Territory,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA70700,NT,1
+LGA12150,Coonamble,lga,rural,https://www.coonambleshire.nsw.gov.au/,council@coonambleshire.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA12150,NSW,1
+LGA52030,Coorow,lga,rural,https://www.coorow.wa.gov.au/,admin@coorow.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA52030,WA,1
+LGA52100,Corrigin,lga,rural,https://www.corrigin.wa.gov.au/,shire@corrigin.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA52100,WA,1
+LGA52450,Cunderdin,lga,rural,https://www.cunderdin.wa.gov.au/,admin@cunderdin.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA52450,WA,1
+LGA61610,Devonport,lga,rural,https://www.devonport.tas.gov.au/,council@devonport.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA61610,TAS,2
+LGA32750,Diamantina,lga,rural,https://www.diamantina.qld.gov.au/,admin@diamantina.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA32750,QLD,1
+LGA41750,Elliston,lga,rural,https://www.elliston.sa.gov.au/,dce@elliston.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA41750,SA,1
+LGA22410,Glenelg,lga,rural,https://www.glenelg.vic.gov.au/Home,enquiry@glenelg.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA22410,VIC,1
+LGA13340,Greater Hume Shire,lga,rural,https://www.greaterhume.nsw.gov.au/Home,mail@greaterhume.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA13340,NSW,1
+LGA33620,Gympie,lga,rural,https://www.gympie.qld.gov.au/,council@gympie.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA33620,QLD,3
+LGA33800,Hinchinbrook,lga,rural,https://www.hinchinbrook.qld.gov.au/,council@hinchinbrook.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA33800,QLD,1
+LGA23190,Horsham,lga,rural,https://www.hrcc.vic.gov.au/Home,council@hrcc.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA23190,VIC,1
+LGA54130,Jerramungup,lga,rural,https://www.jerramungup.wa.gov.au/,council@jerramungup.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA54130,WA,1
+LGA54310,Karratha,lga,rural,https://karratha.wa.gov.au/,enquiries@karratha.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA54310,WA,1
+LGA54340,Katanning,lga,rural,https://www.katanning.wa.gov.au/,admin@katanning.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA54340,WA,1
+LGA54480,Kent,lga,rural,https://www.kent.wa.gov.au/council/,admin@kent.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA54480,WA,1
+LGA63410,King Island,lga,rural,https://kingisland.tas.gov.au/,kicouncil@kingisland.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA63410,TAS,1
+LGA54760,Kulin,lga,rural,https://www.kulin.wa.gov.au/,shire@kulin.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA54760,WA,1
+LGA54970,Laverton,lga,rural,https://www.laverton.wa.gov.au/,reception@laverton.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA54970,WA,1
+LGA14920,Liverpool Plains,lga,rural,https://www.liverpoolplains.nsw.gov.au/Home,council@liverpoolplains.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA14920,NSW,1
+LGA24250,Mansfield,lga,rural,https://www.mansfield.vic.gov.au/Home,council@mansfield.vic.gov.au,Victoria,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA24250,VIC,1
+LGA34860,Maranoa,lga,rural,https://www.maranoa.qld.gov.au/,council@maranoa.qld.gov.au,Queensland,https://abs.gov.au/census/find-census-data/quickstats/2021/LGA34860,QLD,1
+LGA55250,Meekatharra,lga,rural,https://www.meekashire.wa.gov.au/,cso@meekashire.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA55250,WA,1
+LGA55390,Menzies,lga,rural,https://www.menzies.wa.gov.au/,admin@menzies.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA55390,WA,1
+LGA55460,Merredin,lga,rural,https://www.merredin.wa.gov.au/,admin@merredin.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA55460,WA,1
+LGA15240,Mid-Coast,lga,rural,https://www.midcoast.nsw.gov.au/Home,council@midcoast.nsw.gov.au,New South Wales,https://abs.gov.au/census/find-census-data/quickstats/2021/LGA15240,NSW,2
+LGA15270,Mid-Western Regional,lga,rural,https://www.midwestern.nsw.gov.au/Home,council@midwestern.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA15270,NSW,1
+LGA55530,Mingenew,lga,rural,https://mingenew.wa.gov.au/,enquiries@mingenew.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA55530,WA,1
+LGA15300,Moree Plains,lga,rural,https://www.mpsc.nsw.gov.au/,council@mpsc.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA15300,NSW,1
+LGA56300,Nannup,lga,rural,https://www.nannup.wa.gov.au/,nannup@nannup.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA56300,WA,1
+LGA35780,Northern Peninsula Area,lga,rural,https://www.nparc.qld.gov.au/,info@nparc.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA35780,QLD,1
+LGA45400,Orroroo/Carrieton,lga,rural,https://www.orroroo.sa.gov.au/,council@orroroo.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA45400,SA,1
+LGA35800,Paroo,lga,rural,https://www.paroo.qld.gov.au/,council@paroo.qld.gov.au,Queensland,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA35800,QLD,1
+LGA57000,Perenjori,lga,rural,https://www.perenjori.wa.gov.au/,reception@perenjori.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA57000,WA,1
+LGA45540,Peterborough,lga,rural,https://www.peterborough.sa.gov.au/,council@peterborough.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA45540,SA,1
+LGA57210,Plantagenet,lga,rural,https://www.plantagenet.wa.gov.au/,info@sop.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA57210,WA,1
+LGA57280,Port Hedland,lga,rural,https://www.porthedland.wa.gov.au/,council@porthedland.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA57280,WA,1
+LGA16380,Port Macquarie-Hastings,lga,rural,https://www.pmhc.nsw.gov.au/Home,council@pmhc.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA16380,NSW,2
+LGA57420,Ravensthorpe,lga,rural,https://www.ravensthorpe.wa.gov.au/,shire@ravensthorpe.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA57420,WA,1
+LGA73600,Roper Gulf,lga,rural,https://ropergulf.nt.gov.au/,info@ropergulf.nt.gov.au,Northern Territory,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA73600,NT,1
+LGA58190,Tammin,lga,rural,https://www.tammin.wa.gov.au/,shire@tammin.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA58190,WA,1
+LGA17350,Temora,lga,rural,https://www.temora.nsw.gov.au/Home,temshire@temora.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA17350,NSW,1
+LGA17400,Tenterfield,lga,rural,https://www.tenterfield.nsw.gov.au/,council@tenterfield.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA17400,NSW,1
+LGA17620,Upper Hunter Shire,lga,rural,https://www.upperhunter.nsw.gov.au/Home,council@upperhunter.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA17620,NSW,2
+LGA17640,Upper Lachlan Shire,lga,rural,https://upperlachlan.nsw.gov.au/,council@upperlachlan.nsw.gov.au,New South Wales,https://abs.gov.au/census/find-census-data/quickstats/2021/LGA17640,NSW,1
+LGA17650,Uralla,lga,rural,https://www.uralla.nsw.gov.au/Home,council@uralla.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA17650,NSW,1
+LGA18100,Weddin,lga,rural,https://www.weddin.nsw.gov.au/Home,mail@weddin.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA18100,NSW,1
+LGA18200,Wentworth,lga,rural,https://www.wentworth.nsw.gov.au/,council@wentworth.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA18200,NSW,1
+LGA59030,Westonia,lga,rural,https://www.westonia.wa.gov.au/,shire@westonia.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA59030,WA,1
+LGA59100,Wickepin,lga,rural,https://www.wickepin.wa.gov.au/,admin@wickepin.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA59100,WA,1
+LGA59250,Wiluna,lga,rural,https://www.wiluna.wa.gov.au/,reception@wiluna.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA59250,WA,1
+LGA40310,Barossa,lga,mixed,https://www.barossa.sa.gov.au/,barossa@barossa.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA40310,SA,1
+LGA51400,Capel,lga,mixed,https://www.capel.wa.gov.au/,info@capel.wa.gov.au,Western Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA51400,WA,1
+LGA60810,Central Coast,lga,mixed,https://www.centralcoast.nsw.gov.au/,ask@centralcoast.nsw.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA60810,TAS,2
+LGA61010,Central Highlands,lga,mixed,https://centralhighlands.tas.gov.au/,council@centralhighlands.tas.gov.au,Tasmania,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA61010,TAS,1
+LGA71300,East Arnhem,lga,mixed,https://www.eastarnhem.nt.gov.au/,info@eastarnhem.nt.gov.au,Northern Territory,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA71300,NT,1
+LGA13010,Glen Innes Severn,lga,mixed,https://www.gisc.nsw.gov.au/Home,council@gisc.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA13010,NSW,1
+LGA13660,Gwydir,lga,mixed,https://www.gwydir.nsw.gov.au/Home,mail@gwydir.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA13660,NSW,1
+LGA15050,Maitland,lga,mixed,https://www.maitland.nsw.gov.au/,info@maitland.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA15050,NSW,1
+LGA45680,Playford,lga,mixed,https://www.playford.sa.gov.au/,playford@playford.sa.gov.au,South Australia,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA45680,SA,1
+LGA16400,Port Stephens,lga,mixed,https://www.portstephens.nsw.gov.au/,council@portstephens.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA16400,NSW,2
+LGA16490,Queanbeyan-Palerang Regional,lga,mixed,https://www.qprc.nsw.gov.au/Home,council@qprc.nsw.gov.au,New South Wales,https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA16490,NSW,5

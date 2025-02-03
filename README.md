@@ -27,7 +27,7 @@ uv sync
 ## Dataset 
 The action delivery module processed decomposed resident queries ($L,I,T$) to genreate reports utilized two source data: $S$ (ABS cnesus, Wikipedia) and $D$ for policy documents.
 
-- The $S$ for local government can be found [db_lga.xlsx)](data/db/db_lga.xlsx), and suburb data in [db_suburb.xlsx)](data/db/db_suburb.xlsx). 
+- The $S$ for local government can be found [db_lga.csv)](data/db/db_lga.csv), and suburb data in [db_suburb.csv)](data/db/db_suburb.csv). 
 
 ** Note that there are two versions of the Census data link; for this study, we use 
 the 2021 Census URL.
