@@ -1,0 +1,6 @@
+# config.py
+
+BING_API_KEY=""
+SERPER_API_KEY = ""
+FIRE_SCRAPE_API_KEY = ""
+OPENAI_API_KEY= ""

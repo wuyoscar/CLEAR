@@ -1,0 +1,42 @@
+{
+    "page_var": {
+        "lga_wiki_var": "",
+        "lga_wiki_var_reference": {
+            "title": "Shire of Serpentine-Jarrahdale - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Shire_of_Serpentine-Jarrahdale",
+            "snippet": "The Shire of Serpentine-Jarrahdale is a local government area in the outer southeastern metropolitan area of Perth, the capital of Western Australia",
+            "sitelinks": [
+                {
+                    "title": "History",
+                    "link": "https://en.wikipedia.org/wiki/Shire_of_Serpentine-Jarrahdale#History"
+                },
+                {
+                    "title": "Council",
+                    "link": "https://en.wikipedia.org/wiki/Shire_of_Serpentine-Jarrahdale#Council"
+                },
+                {
+                    "title": "Suburbs and towns",
+                    "link": "https://en.wikipedia.org/wiki/Shire_of_Serpentine-Jarrahdale#Suburbs_and_towns"
+                },
+                {
+                    "title": "Population",
+                    "link": "https://en.wikipedia.org/wiki/Shire_of_Serpentine-Jarrahdale#Population"
+                }
+            ],
+            "position": 1
+        },
+        "suburb_wiki_var": "",
+        "suburb_wiki_var_reference": {
+            "title": "Oakford, Western Australia - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Oakford,_Western_Australia",
+            "snippet": "Oakford is an outer suburb of Perth, Western Australia, within the Shire of Serpentine-Jarrahdale. The suburb was named in 1982, taking its name from a ...",
+            "position": 1
+        },
+        "lga_census_var": ""
+    },
+    "lga_policy_path": [
+        "/Users/oscarwu/Documents/\ud83d\udcd1\u8bba\u6587/TheWebConference_2024_demo/CLEAR_PUB/data/pdf_lga/lga_ShireofSerpentine-Jarrahdale_20230930_Strategy-and-Action-Plan-to-Climate-Change.pdf",
+        "/Users/oscarwu/Documents/\ud83d\udcd1\u8bba\u6587/TheWebConference_2024_demo/CLEAR_PUB/data/pdf_lga/lga_ShireofSerpentine-Jarrahdale_20230930_Council-Policy-2110-Energy-and-Water-Efficiency.pdf",
+        "/Users/oscarwu/Documents/\ud83d\udcd1\u8bba\u6587/TheWebConference_2024_demo/CLEAR_PUB/data/pdf_lga/lga_ShireofSerpentine-Jarrahdale_20230930_Council-Policy-2112-Street-Trees.pdf"
+    ]
+}

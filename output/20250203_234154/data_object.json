@@ -1,0 +1,82 @@
+{
+    "user_query": "In Oakford, WA, in the Serpentine-Jarrahdale LGA, water scarcity and extreme heat are major challenges. What programs are in place to promote water efficiency and manage climate impacts in our region?",
+    "query_extraction": {
+        "location": {
+            "query_suburb": "Oakford",
+            "query_state": "WA",
+            "query_lga": "Serpentine-Jarrahdale"
+        },
+        "rag_queries": [
+            "What water efficiency programs are in place in Oakford WA?",
+            "How does Serpentine-Jarrahdale manage climate impacts?",
+            "What initiatives promote water conservation in Oakford WA?"
+        ],
+        "topics": [
+            "water scarcity",
+            "climate resilience",
+            "water efficiency"
+        ]
+    },
+    "has_lga_in_db": true,
+    "has_suburb_in_db": true,
+    "suburb_info": {
+        "Area Code: 2016": "SSC51164",
+        "censusURL_2016": "https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC51164",
+        "censusURL_2021": "https://abs.gov.au/census/find-census-data/quickstats/2021/SAL51174",
+        "sal_id": "SAL51174",
+        "suburb": "Oakford",
+        "postcode": 6121,
+        "state": "WA",
+        "state_name": "Western Australia",
+        "type": "Rural locality",
+        "lga": "Serpentine-Jarrahdale",
+        "statistic_area": "Greater Perth",
+        "elevation": 22,
+        "sqkm": 46.91,
+        "lat": -32.20852,
+        "lng": 115.92797,
+        "timezone": "Australia/Perth",
+        "govLvl": "state suburbs"
+    },
+    "lga_info": {
+        "lga_id": "LGA57700",
+        "lga": "Serpentine-Jarrahdale",
+        "govLvl": "lga",
+        "lgaType": "mixed",
+        "govURL": "https://www.sjshire.wa.gov.au/",
+        "govEmail": "info@sjshire.wa.gov.au",
+        "state_name": "Western Australia",
+        "censusURL_2021": "https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA57700",
+        "state": "WA",
+        "num_policies": 3
+    },
+    "policies": [
+        {
+            "lga": "Serpentine-Jarrahdale",
+            "policyName": "Strategy-and-Action-Plan-to-Climate-Change",
+            "policyURL": "https://www.sjshire.wa.gov.au/Profiles/sj/Assets/ClientData/E22_7277__Attachment_2_-_2015_Strategy_and_Action_Plan_-_to_Climate_Change_Agenda_Report_Item.pdf",
+            "pdf_path": "lga_ShireofSerpentine-Jarrahdale_20230930_Strategy-and-Action-Plan-to-Climate-Change.pdf",
+            "lga_id": "LGA57700",
+            "policy_id": "LGA57700_1",
+            "num_page": 5
+        },
+        {
+            "lga": "Serpentine-Jarrahdale",
+            "policyName": "Council-Policy-2110-Energy-and-Water-Efficiency",
+            "policyURL": "https://www.sjshire.wa.gov.au/documents/144/council-policy-2110-energy-and-water-efficiency",
+            "pdf_path": "lga_ShireofSerpentine-Jarrahdale_20230930_Council-Policy-2110-Energy-and-Water-Efficiency.pdf",
+            "lga_id": "LGA57700",
+            "policy_id": "LGA57700_2",
+            "num_page": 3
+        },
+        {
+            "lga": "Serpentine-Jarrahdale",
+            "policyName": "Council-Policy-2112-Street-Trees",
+            "policyURL": "https://www.sjshire.wa.gov.au/documents/152/council-policy-2112-street-trees",
+            "pdf_path": "lga_ShireofSerpentine-Jarrahdale_20230930_Council-Policy-2112-Street-Trees.pdf",
+            "lga_id": "LGA57700",
+            "policy_id": "LGA57700_3",
+            "num_page": 10
+        }
+    ]
+}

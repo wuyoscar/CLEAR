@@ -1,0 +1,13 @@
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore data and other large files
+# Ignore Conda environment files
+*.yml
+
+# Ignore VS Code settings
+.vscode/
