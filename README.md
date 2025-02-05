@@ -2,7 +2,7 @@
 # CLEAR: Climate Policy Retrieval and Summarization Using LLMs ((WWW Companion '25))
 
 ---
-![Overview of the CLEAR System](figs/p2m.jpg)
+![Overview of the CLEAR System](figs/overview.jpg)
 _Figure: Climate Policy Navigator: Mapping Australia's Environmental Policy Data_
 
 
