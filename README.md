@@ -107,7 +107,6 @@ Collected Data Summary:
 - To access query interpreataion model on [Huggingface](https://huggingface.co/oscarwu/Llama-3.2-3B-CLEAR) 
 ```python
 from transformers import AutoModelForCausalLM, AutoTokenizer
-from peft import AutoPeftModelForCausalLM
 import torch
 from clear.prompt import generate_query_prompt
 device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -195,6 +194,9 @@ uv run main.py \
 
 
 
+## License
+
+This project is licensed under the [Creative Commons Attribution 4.0 License](LICENSE).
 
 
 ## Acknowledgments
