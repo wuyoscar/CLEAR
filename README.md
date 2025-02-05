@@ -1,5 +1,5 @@
-# (WWW Companion '25) - CLEAR: Climate Policy Retrieval and Summarization Using LLMs
-**🎉🎉🎉🎉 Our paper has been accepted by the Web Conference Demo Track 2025.**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14807376.svg)](https://doi.org/10.5281/zenodo.14807376)
+# CLEAR: Climate Policy Retrieval and Summarization Using LLMs ((WWW Companion '25))
 
 ---
 ![Overview of the CLEAR System](figs/p2m.jpg)
