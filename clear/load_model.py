@@ -1,6 +1,3 @@
-from transformers import AutoModelForCausalLM, AutoTokenizer
-import torch
-
 def load_model_and_tokenizer(model_name: str = "oscarwu/Llama-3.2-3B-CLEAR", device: str = None):
     """
     加载指定的模型和分词器。
@@ -12,6 +9,15 @@ def load_model_and_tokenizer(model_name: str = "oscarwu/Llama-3.2-3B-CLEAR", dev
     Returns:
         tuple: (model, tokenizer, device) 加载好的模型、分词器和实际使用的设备字符串。
     """
+    try:
+        import torch
+        from transformers import AutoModelForCausalLM, AutoTokenizer
+    except ImportError as exc:
+        raise RuntimeError(
+            "Local model dependencies are not installed. "
+            "Install them with `uv sync --extra model` before running model inference."
+        ) from exc
+
     # 如果没有提供 device 参数，则自动判断可用设备
     if device is None:
         if torch.cuda.is_available():

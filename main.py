@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import os
-import torch
 import time
 import json
 import pandas as pd
@@ -17,7 +16,6 @@ from clear.prompt import (
     email_report_prompt,
 )
 from clear.db import PolicyMatcher
-from clear.load_model import load_model_and_tokenizer
 import config
 
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -215,6 +213,8 @@ def main():
     args = parser.parse_args()
 
     # 加载模型和分词器，传入设备参数（若 args.device 为 None 则自动检测）
+    from clear.load_model import load_model_and_tokenizer
+
     model, tokenizer, device = load_model_and_tokenizer(device=args.device)
 
     # 使用用户查询

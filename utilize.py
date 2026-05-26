@@ -5,7 +5,6 @@ import tiktoken
 import os
 import re
 import urllib.parse
-from markdown import markdown
 #from md2pdf.core import md2pdf
 
 

@@ -22,6 +22,20 @@ source .venv/bin/activate
 uv sync
 ```
 
+The default install keeps only the dependencies needed for data preparation,
+policy matching, crawling, and report generation. To run the local HuggingFace
+query model, install the model extra:
+
+```bash
+uv sync --extra model
+```
+
+To fine-tune the query model, install the training extra:
+
+```bash
+uv sync --extra train
+```
+
 
 
 ## Dataset 

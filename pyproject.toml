@@ -6,36 +6,33 @@ authors = [
     { name = "Yutao Wu", email = "oscar.w@deakin.edu.au" },
 ]
 dependencies = [
-    "faiss-cpu>=1.9.0.post1",
-    "ipykernel==6.29.5",
     "openai==1.54.3",
     "openpyxl==3.1.5",
     "pandas==2.2.3",
-    "pathlib>=1.0.1",
     "pdf2image>=1.17.0",
-    "pdfminer>=20191125",
-    "pdfminer-six>=20240706",
-    "pymongo>=4.10.1",
     "pypdf2>=3.0.1",
-    "requests==2.32.4",
+    "requests>=2.33.0",
     "rich>=13.9.4",
-    "scikit-learn>=1.5.2",
     "tiktoken>=0.8.0",
-    "torch>=2.5.1",
     "tqdm>=4.67.0",
-    "transformers>=4.46.3",
-    "flagembedding>=1.2.11",
     "rapidfuzz>=3.10.1",
-    "wikipedia>=1.4.0",
-    "unsloth",
-    "peft>=0.13.2",
-    "hf-transfer>=0.1.8",
-    "httpx==0.27.2",
-    "spacy-layout>=0.0.8",
-    "markdown>=3.7",
-    "md2pdf>=1.0.1",
-    "unsloth",
 ]
 requires-python = ">=3.10"
+
+[project.optional-dependencies]
+model = [
+    "torch>=2.9.0",
+    "transformers>=5.0.0rc3",
+]
+train = [
+    "datasets>=4.8.5",
+    "hf-transfer>=0.1.8",
+    "peft>=0.13.2",
+    "torch>=2.9.0",
+    "transformers>=5.0.0rc3",
+    "trl>=0.21.0",
+    "unsloth",
+]
+
 [tool.uv.sources]
 unsloth = { git = "https://github.com/unslothai/unsloth.git" }
