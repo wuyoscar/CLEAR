@@ -17,7 +17,7 @@ dependencies = [
     "pdfminer-six>=20240706",
     "pymongo>=4.10.1",
     "pypdf2>=3.0.1",
-    "requests==2.32.3",
+    "requests==2.32.4",
     "rich>=13.9.4",
     "scikit-learn>=1.5.2",
     "tiktoken>=0.8.0",
