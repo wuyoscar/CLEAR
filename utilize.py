@@ -1,6 +1,6 @@
 import json
 import ast
-from PyPDF2 import PdfReader
+from pypdf import PdfReader
 import tiktoken
 import os
 import re
